@@ -1,0 +1,6 @@
+
+1.遍历文件夹
+QStringList getfileName(const QString &path);
+2.播放音频文件
+3.获取文件夹下的所有音乐文件
+/home/tangcj/C++/QTProject/videoPlayer
